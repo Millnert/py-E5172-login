@@ -1,0 +1,1 @@
+var navigator = "console";
